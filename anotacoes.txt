@@ -1,0 +1,3 @@
+Token redis-admin -> sqp_6a2ae4e16c62f7c7b2cdd9b5708fb5b924ac1997
+Token git redis-app -> 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
+sqp_5446c6d2a13b55625f825d5fd8a918046b14eb8f
