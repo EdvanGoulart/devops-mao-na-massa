@@ -26,7 +26,6 @@ EOT
 systemctl start sonar
 
 # instalar sonar scanner
-
 wget https://binaries.sonarsource.com/Distribution/sonar-scanner-cli/sonar-scanner-cli-4.7.0.2747-linux.zip
 unzip sonar-scanner-cli-4.7.0.2747-linux.zip -d /opt/
 mv /opt/sonar-scanner-4.7.0.2747-linux /opt/sonar-scanner
